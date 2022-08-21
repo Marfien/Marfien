@@ -15,7 +15,7 @@ banner"/>
 - ✈️ On ma way to New Zealand 🇳🇿
 - ❤️ Loving honey 🍯 and baking bread 🍞
 
-<table style="margin-top: 5%">
+<table align="center" width="100%" style="margin-top: 5%">
   <tr style="border-color: rgba(0,0,0,0)">
     <td width="30%" style="border-color: rgba(0,0,0,0)"></td>
     <td width="40%" style="border-color: rgba(0,0,0,0)">
@@ -25,7 +25,7 @@ banner"/>
           <a href="https://java.com">
            <img src=https://img.shields.io/badge/Java-5382a1.svg?&logo=java&logoColor=white&style=for-the-badge alt="java" />
           </a>
-          <a href="https://git-scm.com">
+          <a href="https://git-scm.com">π˚
            <img src=https://img.shields.io/badge/Git-f34f29.svg?&logo=git&logoColor=white&style=for-the-badge alt="git" />
           </a>
           <a href="https://gradle.org">
@@ -49,7 +49,7 @@ banner"/>
     <td width="30%" style="border-color: rgba(0,0,0,0)"></td>
   </tr>
 </table>
-<table>
+<table align="center" width="100%">
   <tr style="border-color: rgba(0,0,0,0)">
     <td width="40%" style="border-color: rgba(0,0,0,0)">
       <div align="center">
@@ -115,7 +115,7 @@ banner"/>
 </table>
 
 
-<table style="margin-top: 15%">
+<table align="center" width="100%" style="margin-top: 15%">
   <tr>
     <td valign="top" width="50%" style="border-color: rgba(0,0,0,0)">
       <img src="https://github-readme-stats.vercel.app/api?username=marfien&show_icons=true&count_private=true&bg_color=F5F2EE" style="width: 100%; border-radius: 20px"  alt="github 
@@ -130,7 +130,7 @@ languages"/>
 
 <br/>
 
-<table>
+<table align="center" width="10%">
   <tr style="border-color: rgba(0,0,0,0)">
     <td width="20%" style="border-color: rgba(0,0,0,0)"></td>
     <td width="60%" style="border-color: rgba(0,0,0,0)">
