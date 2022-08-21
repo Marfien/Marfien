@@ -25,7 +25,7 @@ banner"/>
           <a href="https://java.com">
            <img src=https://img.shields.io/badge/Java-5382a1.svg?&logo=java&logoColor=white&style=for-the-badge alt="java" />
           </a>
-          <a href="https://git-scm.com">π˚
+          <a href="https://git-scm.com">
            <img src=https://img.shields.io/badge/Git-f34f29.svg?&logo=git&logoColor=white&style=for-the-badge alt="git" />
           </a>
           <a href="https://gradle.org">
