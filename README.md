@@ -10,7 +10,7 @@ banner"/>
 
 ### About me
 - 🌱 Started in 2018
-- 💻 Currently working at <a href="https://thelotus.tv" target="_blank" style="color: 0000EE">TheLotus.tv<a/>
+- 💻 Currently working on nothing 
 - 📚 Just graduated from high school
 - ✈️ On ma way to New Zealand 🇳🇿
 - ❤️ Loving honey 🍯 and baking bread 🍞
