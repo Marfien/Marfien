@@ -10,7 +10,7 @@ banner"/>
 
 ### About me
 - 🌱 Started in 2018
-- 💻 Currently working on nothing 
+- 🇸🇬 Currently in Singapore
 - 📚 Just graduated from high school
 - ✈️ On ma way to New Zealand 🇳🇿
 - ❤️ Loving honey 🍯 and baking bread 🍞
