@@ -1,21 +1,20 @@
 # Hello there 👋
-I'm Marvin, aka Marfien. Welcome to my profile page! Don't hesitate to have a look around. All my repos are public :)
+I'm Marvin, aka Marfien. Welcome to my profile page! Take a look around. Almost all of my repos are public :)
 
-## Just a bit about me
-Currently, I'm doing my dual studies to become a mathematical-technical software engineer at the FH-Aachen while doing the practical part at @Soptim AG.
+## Who am I?
+Currently, I am doing a dual-degree programm become a mathematical-technical software engineer (MATSE or MaTechSe) at the FH-Aachen. When I am not at university, I am working at @Soptim AG in various teams.
 In my free time i will most likely either be programming 💻, lifting weights 🏋️‍♂️ or doing judo 🥋.
 
 ### 🤓 Tech I'm into 
-- Java (& Kotlin)
-- Docker and Kubernetes
-- GitHub Actions, Gitlab CI
-- (just a bit of Vue.js)
+- Java (& just a bit of Kotlin)
+- Docker and almost anything Kubernetes related
+- GitHub Actions, Gitlab CI or CICD in generel
+- Just getting started with frontend :o
 
-### 📚 Stuff I want to lean
+### 📚 Stuff I want to lean some time
 - Terraform
 - Cloud (preferably GCP, might be AWS)
 
 ### 👀 Sounds interessting to me
-- Flux CD (GitOps)
-- Mojo
+- Golang
 - Rust
