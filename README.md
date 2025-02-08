@@ -6,7 +6,7 @@ Currently, I am doing a dual-degree programm become a mathematical-technical sof
 In my free time i will most likely either be programming 💻, lifting weights 🏋️‍♂️ or doing judo 🥋 (and sometimes just chilling watching youtube and co).
 
 ### 🤓 Tech I'm into 
-- Background in Java, some Python and a pinch of Kotlin and GoLang (literally a pinch)
+- Background in Java, some Python and a pinch of Kotlin and GoLang (literally just a pinch)
 - Docker, Kubernetes and more
 - Selfhosting in my homelab utilizing Terraform to bootstrap flux onto a HA k3s cluster provisioned by Rancher and backed by Harvester :P
 - ✨ Pieline magic ✨, mainly in Gitlab CI, preferably GitHub Actions
@@ -15,7 +15,7 @@ In my free time i will most likely either be programming 💻, lifting weights �
 ### 📚 Stuff I want to lean some time
 - Cloud ☁️ computing (preferably GCP, might be AWS)
 - More in depth networking
-- Software Architecture & Team management
+- Software Architecture & Team/Project management
 
 ### 👀 Sounds interessting to me
 - Rust
@@ -23,7 +23,7 @@ In my free time i will most likely either be programming 💻, lifting weights �
 
 ### 🏎️ My daily drivers
 - NeoVim & Jetbrains IDEs
-- HyperJS, zsh and oh-my-zsh for the terminal
-- Arc by TBC <3 (or FireFox on Windows... meh)
+- HyperJS, zsh and oh-my-zsh on the shell-side of life
+- Arc by TBC <3 (or Chrome as alternative)
 - MacOS > Windows, Linux/WSL
 - Git ofc. 
